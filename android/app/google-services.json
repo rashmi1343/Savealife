@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "433879754293",
+    "project_id": "savealife-9603f",
+    "storage_bucket": "savealife-9603f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433879754293:android:09317f1fcf09089dd2737c",
+        "android_client_info": {
+          "package_name": "com.SaveALife.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433879754293-cjpn51cn9bdudo6cfcap32ioe69viem5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACL0edqhAuH4R7dA3PeI2xTUsjwGa9-Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433879754293-cjpn51cn9bdudo6cfcap32ioe69viem5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "433879754293-ebe3p9ubukeuscd9i7r3valr2hamdv8l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.saveALife.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
